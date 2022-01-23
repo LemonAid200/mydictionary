@@ -3,7 +3,7 @@ from googletrans import Translator
 
 translator = Translator()
 
-
+#  hello im a comment
 def translatethis(text):
     text = str(text)
     try:
